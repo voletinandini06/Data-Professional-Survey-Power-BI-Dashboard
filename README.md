@@ -15,6 +15,7 @@ This project presents an interactive dashboard created in Power BI to analyze an
 ### Tools Used
 
 Excel: Data extraction and preprocessing.
+
 Power BI: Data visualization and interactive reporting using advanced charts, filters, and slicers.
 
 ![Final Dashboard](https://github.com/user-attachments/assets/1b0285bb-2ebc-45f0-b87c-92bb5861dcae)
